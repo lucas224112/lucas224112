@@ -1,7 +1,7 @@
 <a style="background: none;text-decoration: none;" href="https://5h12.github.io/LH54/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7878FF&height=120&section=header"/></a>
 
 <!--Text_001-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=""&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Guimarães;I'm+19+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=""&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Guimarães;I'm+20+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
   
 <!--Statistics-->
 <div align="center">
